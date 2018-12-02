@@ -1,0 +1,16 @@
+{
+  "name": "parity-ethereum-issue-9660",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/paritytech/parity-ethereum/issues/9660",
+  "author": "Luke Schoen",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ethereumjs-tx": "^1.3.7",
+    "keythereum": "^1.0.4",
+    "web3": "^1.0.0-beta.36"
+  }
+}
