@@ -2,9 +2,10 @@
   "name": "parity-ethereum-issue-9660",
   "version": "0.1.0",
   "main": "index.js",
+  "description": "https://github.com/paritytech/parity-ethereum/issues/9660",
   "repository": "https://github.com/paritytech/parity-ethereum/issues/9660",
   "author": "Luke Schoen",
-  "license": "MIT",
+  "license": "ISC",
   "scripts": {
     "start": "node index.js"
   },
